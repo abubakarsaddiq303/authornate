@@ -1,0 +1,2 @@
+body{height:100vh;margin:0}.app{transition:background .2s linear}#root{height:100%;width:100%}.app{display:flex;flex-direction:row;justify-content:space-between}.btnDark,.btnLight{padding:10px 25px;border:none;outline:none;border-radius:2px}.btnLight{color:#000;background:#fff}.btnDark{color:#fff6f6;background:#000}
+/*# sourceMappingURL=main.65eff0cf.chunk.css.map */
